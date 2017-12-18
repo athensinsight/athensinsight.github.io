@@ -1,0 +1,128 @@
+@charset "UTF-8";
+body {
+	font-weight: 400;
+	font-style: normal;
+	margin: 0;
+	height: 100%;
+	background-color: #FDF3E7;
+}
+body footer {
+	clear: both;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: #FFFFFF;
+	background-color: #000000;
+	padding-left: 20px;
+}
+body h1 {
+	font-family: alike;
+	font-style: normal;
+	font-weight: 400;
+	color: #FFFFFF;
+	margin-top: 0px;
+}
+body h2 {
+	font-family: alike;
+	font-style: normal;
+	font-weight: 400;
+	color: #FFFFFF;
+	font-size: medium;
+	margin-bottom: 2px;
+}
+body nav {
+	background-color: #AEAEAE;
+}
+.navlist {
+	list-style-type: none;
+	overflow: hidden;
+	margin: 0;
+	padding-top: 0px;
+	font-family: average;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 97%;
+}
+.navlistitem {
+	float: left;
+}
+.navlistitem a {
+	text-decoration: none;
+	padding-top: 14px;
+	padding-bottom: 14px;
+	padding-right: 43px;
+	padding-left: 24px;
+	display: block;
+	color: #161616;
+}
+.navlistitem a:hover {
+	color: #FDFDFD;
+}
+.heading {
+	background-color: #000000;
+	padding-top: 5px;
+	padding-left: 10px;
+	margin-bottom: 5px;
+	padding-bottom: 1px;
+	color: #F6F6F6;
+}
+.logo {
+	float: right;
+	margin-top: 4px;
+	margin-right: 4px;
+}
+.ravisection {
+	background-color: #B42828;
+	margin-bottom: 40px;
+}
+.vaibhavsection {
+	background-color: #4C80A3;
+	margin-bottom: 40px;
+}
+.ravidesc {
+	width: 55%;
+	float: right;
+	padding-left: 0px;
+	margin-right: 20px;
+	font-family: allerta;
+	font-style: normal;
+	font-weight: 400;
+	font-size: large;
+	margin-top: 10%;
+}
+.mainsection h3 {
+	font-family: alike;
+	font-style: normal;
+	font-weight: 400;
+	padding-left: 40px;
+	font-size: xx-large;
+}
+.mainsection .ravisection img {
+	width: 40%;
+	height: 40%;
+}
+.mainsection .vaibhavsection img {
+	width: 40%;
+	height: 40%;
+}
+.vaibhavdesc {
+	width: 55%;
+	float: right;
+	margin-top: 10%;
+	font-family: allerta;
+	font-style: normal;
+	font-weight: 400;
+	margin-right: 20px;
+	font-size: large;
+}
+.mainsection .bothsection {
+	background-color: #6B6969;
+	margin-bottom: 40px;
+	padding-left: 40px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	padding-right: 40px;
+	font-family: allerta;
+	font-style: normal;
+	font-weight: 400;
+	font-size: large;
+}
